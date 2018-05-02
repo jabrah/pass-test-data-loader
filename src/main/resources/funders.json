@@ -1,0 +1,34 @@
+{
+  "funders": [
+    {
+      "name": "National Eye Institute",
+      "url": "https://nei.nih.gov/",
+      "localKey": "1234lkj"
+    },
+    {
+      "name": "National Science Foundation",
+      "url": "https://www.nsf.gov/",
+      "localKey": "nsf"
+    },
+    {
+      "name": "National Institution of Diabetes and Digestion",
+      "url": "https://www.niddk.nih.gov/",
+      "localKey": "niddk-nih"
+    },
+    {
+      "name": "National Institute of Mental Health",
+      "url": "https://www.nimh.nih.gov/index.shtml",
+      "localKey": "nimh-nih"
+    },
+    {
+      "name": "National Institute of Health",
+      "url": "https://www.nih.gov/",
+      "localKey": "nih"
+    },
+    {
+      "name": "Institute of Education Sciences",
+      "url": "https://ies.ed.gov/",
+      "localKey": "ies-ed"
+    }
+  ]
+}

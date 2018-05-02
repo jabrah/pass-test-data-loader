@@ -1,0 +1,24 @@
+{
+  "submissions": [
+    {
+      "aggregatedDepositStatus": "accepted",
+      "submittedDate": "2017-07-04"
+    },
+    {
+      "aggregatedDepositStatus": "accepted",
+      "submittedDate": "2017-12-04"
+    },
+    {
+      "aggregatedDepositStatus": "in-progress",
+      "submittedDate": "2017-08-30"
+    },
+    {
+      "aggregatedDepositStatus": "in-progress",
+      "submittedDate": "2017-09-30"
+    },
+    {
+      "aggregatedDepositStatus": "accepted",
+      "submittedDate": "2016-03-01"
+    }
+  ]
+}

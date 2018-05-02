@@ -1,0 +1,9 @@
+{
+  "deposits": [
+    { "depositStatus": "accepted" },
+    { "depositStatus": "accepted" },
+    { "depositStatus": "submitted" },
+    { "depositStatus": "submitted" },
+    { "depositStatus": "accepted" },
+  ]
+}

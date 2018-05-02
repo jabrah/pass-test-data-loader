@@ -1,0 +1,132 @@
+{
+  "users": [
+    {
+      "username": "eford",
+      "displayName": "Ernest Ford",
+      "email": "ford@example.com",
+      "roles": ["submitter"],
+      "firstName": "Ernest",
+      "lastName": "Ford"
+    },
+    {
+      "username": "agudzun",
+      "displayName": "Anne Gudzune",
+      "email": "anne@example.com",
+      "roles": ["sumbitter"]
+    },
+    {
+      "username": "spillage",
+      "displayName": "Stephen Pillage",
+      "email": "illage@example.com",
+      "roles": ["submitter"]
+    },
+    {
+      "username": "efrey",
+      "displayName": "Eric Frey",
+      "email": "frey@example.com",
+      "roles": ["submitter"]
+    },
+    {
+      "username": "mjaco",
+      "displayName": "Michael Jacobs",
+      "email": "mjacob@example.com",
+      "roles": ["submitter"]
+    },
+    {
+      "username": "jwong",
+      "displayName": "John Wong",
+      "email": "jwong@example.com",
+      "roles": ["submitter"]
+    },
+    {
+      "username": "tbrown",
+      "displayName": "Tiffany Brown",
+      "email": "tbrown@example.com",
+      "roles": ["submitter"]
+    },
+    {
+      "username": "hpeek",
+      "displayName": "Hillary Peek",
+      "email": "peek@example.com",
+      "roles": ["submitter"]
+    },
+    {
+      "username": "plimo",
+      "displayName": "Steve Plimpton",
+      "email": "plimo@example.com",
+      "roles": ["submitter"]
+    },
+    {
+      "username": "zwang",
+      "displayName": "Szu Wang",
+      "email": "zwang@example.com",
+      "roles": ["submitter"]
+    },
+    {
+      "username": "ksand",
+      "displayName": "Kurt Sanders",
+      "email": "ksand@example.com",
+      "roles": ["submitter"]
+    },
+    {
+      "username": "bradley",
+      "displayName": "Robert Bradley",
+      "email": "bradley@example.com",
+      "roles": ["submitter"]
+    },
+    {
+      "username": "elewin",
+      "displayName": "Erin Lewin",
+      "email": "elewin@example.com",
+      "roles": ["submitter"]
+    },
+    {
+      "username": "sayeed.choudhury",
+      "displayName": "Sayeed Choudhury",
+      "email": "schou@example.com",
+      "roles": ["admin"]
+    },
+    {
+      "username": "hvu",
+      "displayName": "Hanh Vu",
+      "email": "hvu@example.com",
+      "roles": ["submitter"]
+    },
+    {
+      "username": "rkelly",
+      "displayName": "Kelly R Fisher",
+      "email": "r.kelly@example.com",
+      "roles": ["submitter"]
+    },
+    {
+      "username": "tmac",
+      "displayName": "Thomas McDermott",
+      "email": "mcdott@example.com",
+      "roles": ["submitter"]
+    },
+    {
+      "username": "shatsu",
+      "displayName": "Sharon Tsui",
+      "email": "sharon.tsui@example.com",
+      "roles": ["submitter"]
+    },
+    {
+      "username": "maciver",
+      "displayName": "Martha Mac Iver",
+      "email": "martha.mac@example.com",
+      "roles": ["submitter"]
+    },
+    {
+      "username": "mirosen",
+      "displayName": "Michael Rosenberg",
+      "email": "michael.rosenberg@example.com",
+      "roles": ["submitter"]
+    },
+    {
+      "username": "jfauerbach",
+      "displayName": "James Fauerbach",
+      "email": "jfauerbach@example.com",
+      "roles": ["submitter"]
+    }
+  ]
+}

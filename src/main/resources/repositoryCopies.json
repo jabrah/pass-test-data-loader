@@ -1,0 +1,25 @@
+{
+  "repositoryCopies": [
+    {
+      "externalIds": ["775054"],
+      "accessUrl": "http://example.com/here-is-your-deposited-publication",
+      "copyStatus": "complete"
+    },
+    {
+      "externalIds": ["65871"],
+      "accessUrl": "http://example.com/here-is-your-deposited-publication",
+      "copyStatus": "complete"
+    },
+    {
+      "copyStatus": "accepted"
+    },
+    {
+      "copyStatus": "in-progress"
+    },
+    {
+      "externalIds": ["32654"],
+      "accessUrl": "http://example.com/here-is-your-deposited-publication",
+      "copyStatus": "complete"
+    }
+  ]
+}

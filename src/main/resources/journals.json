@@ -1,0 +1,40 @@
+{
+  "journals": [
+    {
+      "journalName": "AAPS Journal",
+      "nlmta": "AAPS J",
+      "pmcParticipation": "A"
+    },
+    {
+      "journalName": "ACS Medicinal Chemistry Letters",
+      "nlmta": "ACS Med Chem Lett",
+      "pmcParticipation": "A"
+    },
+    {
+      "journalName": "AAPS PharmSci",
+      "nlmta": "AAPS PharmSci",
+      "pmcParticipation": "A"
+    },
+    {
+      "journalName": "Food & Function",
+      "nlmta": "Food Funct",
+      "pmcParticipation": "B"
+    },
+    {
+      "journalName": "Toxicology Research",
+      "nlmta": "Toxicol Res",
+      "pmcParticipation": "B"
+    },
+    {
+      "journalName": "Analyst",
+      "nlmta": "Analyst",
+      "pmcParticipation": "B"
+    },
+    {
+      "journalName": "Physical Review Fluids"
+    },
+    {
+      "journalName": "Advances in Engineering Education"
+    }
+  ]
+}
